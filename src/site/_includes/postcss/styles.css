@@ -28,7 +28,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   min-height: 100vh;
-  background:  $pagpe-color;
+  background:  $page-color;
   background: url(/images/bg-grid.png), linear-gradient(320deg, $page-color 0%, $accent-color 100%);
 
   @media (min-width: $narrow) {
@@ -79,7 +79,7 @@ p {
 .subtitle {
   font-size: 1.2em;
   margin-top: 1em;
-  margin-bottom: 5em;
+  margin-bottom: 2em;
 }
 
 ul, ol {
