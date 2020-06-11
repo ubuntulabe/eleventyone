@@ -36,9 +36,11 @@ body {
   };
 }
 
-img {
-  width: 100px;
-  height: 100px;
+.logotipo {
+  width: 123px;
+  height: 116px;
+  background-image: url(/images/Logotipo-223x210.svg);
+  background-size: cover;
 }
 .container {
   margin-left: auto;
