@@ -9,5 +9,5 @@ Nesta seção manteremos respondidas as principais perguntas sobre o projeto. At
 
 O Ubuntu_labe está dividido em cinco etapas com objetivo de empoderar os participantes a sentir, visualizar, desenhar, empreender e celebrar um projeto para a construção de cidades inteligentes protagonizado por pessoas pretas. 
 
-![Awareness](https://ubuntulabe.netlify.app/src/site/images/noun_Awareness_2380685.svg)
+![Awareness](https://ubuntulabe.netlify.app/images/noun_Awareness_2380685.svg)
 
