@@ -11,3 +11,9 @@ O Ubuntu_labe está dividido em cinco etapas com objetivo de empoderar os partic
 
 ![Awareness](https://ubuntulabe.netlify.app/images/noun_Awareness_2380685.svg)
 
+<img src="https://ubuntulabe.netlify.app/images/noun_Awareness_2380685.svg" alt="Awareness Icon" width="100" height="100"/>
+
+### Duração: 23/05/2020 a 17/07/2020
+
+Imersão ao desafio de superação do racismo tecnológico para a construção de cidades inteligentes
+Nessa etapa os alunos serão convidados a sentir as limitações e os respectivos impactos de uma tecnologia desenvolvida em outro contexto social frente aos problemas da cidade do Rio de Janeiro.
