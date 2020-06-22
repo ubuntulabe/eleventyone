@@ -4,7 +4,7 @@
     <loc>https://site-root-url.com/posts/criterios/</loc>
   </url>
   <url>
-    <loc>https://site-root-url.com/posts/ubuntu-online/</loc>
+    <loc>https://site-root-url.com/posts/por-que/</loc>
   </url>
   <url>
     <loc>https://site-root-url.com/</loc>
@@ -14,5 +14,8 @@
   </url>
   <url>
     <loc>https://site-root-url.com/about/</loc>
+  </url>
+  <url>
+    <loc>https://site-root-url.com/como-funciona/</loc>
   </url>
 </urlset>
