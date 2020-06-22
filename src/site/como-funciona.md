@@ -4,6 +4,11 @@ layout: layouts/base.njk
 subtitle: Entenda como será nossa jornada no projeto.
 ---
 
+<img 
+src="/images/group-of-black-people.svg"
+alt="Awareness Icon" 
+/>
+
 O Ubuntu_labe está dividido em cinco etapas com objetivo de empoderar os participantes a sentir, visualizar, desenhar, empreender e celebrar um projeto para a construção de cidades inteligentes protagonizado por pessoas pretas.
 
 <img src="https://ubuntulabe.netlify.app/images/noun_Awareness_2380685.svg" 
@@ -68,3 +73,6 @@ height="100"
 ##### Duração: 30/11/2020
 
 Pitch Day: Nessa data, os trabalhos serão apresentados a investidores e aceleradoras locais para que possam receber apoio para novas fases de desenvolvimento e possível replicação em outras partes da cidade.
+
+#### [Conheça nossos critérios de seleção](https://ubuntulabe.netlify.app/posts/criterios/)
+#### [Veja nossas perguntas frequentes](https://ubuntulabe.netlify.app/posts/faq/)
