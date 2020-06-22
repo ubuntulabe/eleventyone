@@ -4,7 +4,7 @@ subtitle: Programa de inovação aberta em cidades inteligentes para a redução
 layout: layouts/base.njk
 ---
 
-## Dia 26 de junho teremos nossa sessão de abertura!
+## Dia 23 de junho teremos nossa sessão de abertura!
 
 
 O programa do Ubuntu Labe é transformador e pretende inspirar pessoas negras e pardas e desenvolverem projetos com Impacto Positivo para a cidade do Rio de Janeiro.
