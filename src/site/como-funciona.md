@@ -5,8 +5,8 @@ subtitle: Entenda como será nossa jornada no projeto.
 ---
 
 <img 
-src="/images/group-of-black-people.svg"
-alt="Awareness Icon" 
+src="https://ubuntulabe.netlify.app/images/group-of-black-people.svg"
+alt="Três pessoas pretas em volta de uma mesa, em um escritório" 
 />
 
 O Ubuntu_labe está dividido em cinco etapas com objetivo de empoderar os participantes a sentir, visualizar, desenhar, empreender e celebrar um projeto para a construção de cidades inteligentes protagonizado por pessoas pretas.
