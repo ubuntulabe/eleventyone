@@ -74,23 +74,22 @@ height="100"
 />
 
  <!--  -->
- 
 <img src="https://ubuntulabe.netlify.app/images/prefeituraRJ.png" 
-alt="Programa de Engenharia de Transportes" 
-height="100"
-/>
-
-<img src="https://ubuntulabe.netlify.app/images/PNUD.png" 
-alt="Programa de Engenharia de Transportes" 
+alt="Prefeitura do Estado do Rio de Janeiro" 
 height="100"
 />
 
 <img src="https://ubuntulabe.netlify.app/images/rioPDS.png" 
-alt="Programa de Engenharia de Transportes" 
+alt="Plano de Desenvolvimento Sustentável " 
+height="100"
+/>
+
+<img src="https://ubuntulabe.netlify.app/images/PNUD.png" 
+alt="Programa das Nações Unidas pelo Desenvolvimento" 
 height="100"
 />
 
 <img src="https://ubuntulabe.netlify.app/images/govFederal.png" 
-alt="Programa de Engenharia de Transportes" 
+alt="Governo Federal" 
 height="100"
 />
