@@ -4,8 +4,6 @@ layout: layouts/base.njk
 subtitle: Quem toca o Ubuntu_Labe e quem nos apoia!
 ---
 
-## Akunji: pessoas encarregadas de uma missão
-
 ### Mestre dos Dados
 <img src="https://ubuntulabe.netlify.app/images/chris.png" 
 alt="Christian Basilio" 
@@ -54,7 +52,7 @@ height="100"
 style="border-radius:50%"
 />
 
-Gilberto Ramires, cuida do Design e da Infraestrutura.
+Gilberto Ramires, cuida do Design e da Infraestrutura Cibernética.
 
 ## Quem apoia o Ubuntu_Labe?
 
@@ -71,6 +69,7 @@ height="100"
 <img src="https://ubuntulabe.netlify.app/images/pet.png" 
 alt="Programa de Engenharia de Transportes" 
 height="100"
+width="300"
 />
 
  <!--  -->
@@ -82,6 +81,7 @@ height="100"
 <img src="https://ubuntulabe.netlify.app/images/rioPDS.png" 
 alt="Plano de Desenvolvimento Sustentável " 
 height="100"
+width="280"
 />
 
 <img src="https://ubuntulabe.netlify.app/images/PNUD.png" 
@@ -92,4 +92,7 @@ height="100"
 <img src="https://ubuntulabe.netlify.app/images/govFederal.png" 
 alt="Governo Federal" 
 height="100"
+width="280"
 />
+
+## [Conheça nosso código de conduta](https://docs.google.com/document/d/197xTsnfW0WAJegH8iv-_QSpFPdwRTWz6uy5ASFGxSZY/edit?usp=sharing)
