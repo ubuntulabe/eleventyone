@@ -183,3 +183,11 @@ footer a:focus {
 
 /*  código inserido por Ramires */
 
+
+.cta { 
+  border: none;
+  a:link,
+  a:visited {
+    border: none;
+  }
+}

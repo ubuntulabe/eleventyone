@@ -27,11 +27,13 @@ O Ubuntu_Labe surge na necessidade de protagonização de pessoas pretas na idea
 
 Estamos projetando coisas grandes. Queremos tornar utopias em realidade. Gostaríamos de contar com a comunidade negra disponível para nos apoiar. Seja investindo tempo, energia ou recursos. 
 
-<img 
+<a class="cta" href="mailto:ubuntulab@pet.coppe.ufrj.br"><img 
 src="https://ubuntulabe.netlify.app/images/CTA_financiamento.svg"
 alt="Botão contendo uma pequena imagem de uma mulher negra sentada, frente a uma mesa usando um laptop" 
-href="mailto:ubuntulab@pet.coppe.ufrj.br
-/>
+href="mailto:ubuntulab@pet.coppe.ufrj.br"
+width="300"
+class="cta"
+/></a>
 
 #### Entre em contato pelas nossas redes
 [Instagram](https://www.instagram.com/ubuntulabe/) | [WhatsApp](https://wa.me/5521987051246) | [Facebook](https://www.facebook.com/UbuntuLabe/) | [LinkedIn](https://www.linkedin.com/company/ubuntulabe)

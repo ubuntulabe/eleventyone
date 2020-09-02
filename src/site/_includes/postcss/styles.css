@@ -208,3 +208,7 @@ footer {
     border-bottom: solid 1px $text-color;
   }
 }
+
+a.cta { 
+  border: none;
+}
