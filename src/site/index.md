@@ -32,7 +32,6 @@ src="https://ubuntulabe.netlify.app/images/CTA_financiamento.svg"
 alt="Botão contendo uma pequena imagem de uma mulher negra sentada, frente a uma mesa usando um laptop" 
 href="mailto:ubuntulab@pet.coppe.ufrj.br"
 width="300"
-class="cta"
 /></a>
 
 #### Entre em contato pelas nossas redes
